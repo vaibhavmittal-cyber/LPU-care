@@ -1,0 +1,125 @@
+.flexbox{
+    display: flex;
+    
+}
+.flexchild{
+    flex: 1;
+}
+.flexchild1{
+    flex:0;
+}
+#head{
+    text-align: center;
+}
+body{
+    background-color: var(#f4f8fd);
+    padding: auto;
+}
+#main{
+    font-size:x-large;
+}
+#head{
+    padding: auto;
+}
+#center{
+    font-size:xx-large;
+}
+.team{
+    font-size: large;
+    text-align: center;
+}
+#img1{
+    height: 206px;
+}
+.team1{
+    text-align: center;
+    font-size: x-large;
+}
+#love{
+    width: 275px;
+    margin-right: 70px;
+}
+#first{
+    width: 530px;
+    margin-left: 0;
+}
+#space{
+    margin-top: auto;
+}
+#first1{
+    width: 695px;
+    margin-right: 0;
+}
+#type{
+    list-style:inside;
+}
+#img2{
+    height: 170px;
+}
+#gh{
+    font-size: 1cm;
+}
+#new{
+    font-size: 1.5cm;
+}
+#new1{
+    font-size: 0.5cm;
+}
+#new2{
+    text-align: center;
+}
+form {
+    border: 4px solid #f1f1f1;
+  }
+  
+  /* Add some padding and a grey background color to containers */
+  .container {
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+  
+  /* Style the input elements and the submit button */
+  input[type=text], input[type=submit] {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+  
+  /* Add margins to the checkbox */
+  input[type=checkbox] {
+    margin-top: 16px;
+}
+  
+  /* Style the submit button */
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    border: none;
+}
+  
+  input[type=submit]:hover {
+    opacity: 0.8;
+}
+#water{
+    background-color: azure;
+}
+body{
+    margin: 20px;
+    padding: 20px;
+}
+#park{
+    width: 420px;
+    margin-top: 50px;}
+#page{
+    padding: 10px;
+}
+#msg{
+    color: #04AA6D;
+}
+body{
+    background-image: url(/bck.jpeg);
+}
+
